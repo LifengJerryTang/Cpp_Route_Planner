@@ -1,6 +1,6 @@
 # C++ Route Planning Project
 
-This repo contains the code Route Planning project.
+This repo contains the code Route Planning project. The Route Planning project uses the famous A Star search algorithm to find the shortest path from one location to another.
 
 <img src="map.png" width="600" height="450" />
 
